@@ -1,0 +1,2 @@
+[console_scripts]
+pvm = mypvm.__main__:main
